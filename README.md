@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Colarado board of employee has requested me to perform the following tasks to complete the election audit of a recent local congressional election. 
+A Colarado board employee requested me to perform the following tasks to complete the election audit of a recent local congressional election. 
 
 - Calculate the Total number of votes cast
 - Provide a complete list of candidates who received votes
