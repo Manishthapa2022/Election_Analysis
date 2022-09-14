@@ -37,6 +37,7 @@ The analysis of the elections show that:
 - Denver had the highest turnout at 82.8% and 306,055. 
 
 
-## Election Audit Summary
-
+## Election Audit Summary 
+    When the Pypoll_Challenge file was created to accomodate for Election Commision's additional request, two variables were created i.e. NAME_COL and COUNTY_COL to prevent hardcoding the numbers, which can espcially help incase the Names and County are under different coloumn numbers. So, we can always avoid hardcoding and assign variables at the beginning of the code so that easy changes can be made if the script has to be used for other election polls. 
+    
 
