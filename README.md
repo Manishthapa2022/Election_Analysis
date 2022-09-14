@@ -27,6 +27,11 @@ The analysis of the elections show that:
   - Diana DeGette recieved 73.8% of the vote and 272,892  number of votes.
   - Raymon Anthony Doane recieved 3.1% of the vote and 11,606 number of votes.
 - The winner of the election is Diana DeGette who recieved 73.8 % of the vote and 272,892 number of votes. 
+- The % turnout and the total voter turnout in each county are as follows:
+  - Jefferson: 10.5% with a total of 38,855 votes
+  - Denver: 82.8% with a total of 306,055 votes
+  - Arapahoe: 6.7% with a total of 24,801 votes
+- Denver has the highest turnout at 82.8% and 306,055. 
 
 
 
