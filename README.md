@@ -15,7 +15,7 @@ A Colarado board employee requested me to perform the following tasks to complet
 - Data Source: election_results.csv
 Software: Python 3.9.7, Visual Studio Code 1.71.1
 
-## Summary
+## Election Audit Results
 
 ![Analysis Results Snapshot](https://github.com/Manishthapa2022/Election_Analysis/blob/main/Resources/Pypoll_Challenge_VisualStudio_Output.png)
 ----
@@ -37,8 +37,6 @@ The analysis of the elections show that:
 - Denver had the highest turnout at 82.8% and 306,055. 
 
 
+## Election Audit Summary
 
 
-## Challenge Overview
-
-## Challenge Summary
