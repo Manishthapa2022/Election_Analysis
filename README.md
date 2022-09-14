@@ -39,6 +39,9 @@ The analysis of the elections show that:
 
 ## Election Audit Summary 
 
-When the Pypoll_Challenge file was created to accomodate for Election Commision's additional request, two variables were created i.e. NAME_COL and COUNTY_COL to prevent hardcoding the numbers, which can espcially help incase the Names and County are under different coloumn numbers. So, we can always avoid hardcoding and assign variables at the beginning of the code so that easy changes can be made if the script has to be used for other election polls. 
+The two ways in which the file script can be modified to suite other Elections are as follows:
+
+* When the Pypoll_Challenge file was created to accomodate for Election Commision's additional request, two variables were created i.e. NAME_COL and COUNTY_COL to prevent hardcoding the numbers, which can espcially help incase the Names and County are under different coloumn numbers. So, we can always avoid hardcoding and assign variables at the beginning of the code so that easy changes can be made if the script has to be used for other election polls. 
+* 
     
 
