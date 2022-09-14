@@ -1,4 +1,4 @@
-# Election_Analysis
+# **Election_Analysis**
 
 ## Project Overview
 A Colarado board employee requested me to perform the following tasks to complete the election audit of a recent local congressional election. 
