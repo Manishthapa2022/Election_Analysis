@@ -17,7 +17,7 @@ Software: Python 3.9.7, Visual Studio Code 1.71.1
 
 ## Summary
 
-####![Analysis Results Snapshot](https://github.com/Manishthapa2022/Election_Analysis/blob/main/Resources/Pypoll_Challenge_VisualStudio_Output.png)
+![Analysis Results Snapshot](https://github.com/Manishthapa2022/Election_Analysis/blob/main/Resources/Pypoll_Challenge_VisualStudio_Output.png)
 ----
 The analysis of the elections show that:
 - There were total 369711 votes cast in the election.
