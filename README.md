@@ -46,4 +46,4 @@ The ways in which the file script can be modified to suite other Elections are a
 
 ![Image](https://github.com/Manishthapa2022/Election_Analysis/blob/main/Resources/Pseudocoding_helps.png)
     
-* Apart ferom Pseudo coding, Comment headers can also be used where required to identify key codes and key turning points in the code. Also, the scrip can be split up where required so that minimum information can be loaded and least changes required to prevent coing errors. In our cse, we could use both PyPoll and Pypoll_Challenege accoridingly as per the information required in the future with minimum hard cooding and plenty of Pseudo codes. 
+* Apart from Pseudo coding, Comment headers can also be used where required to identify key codes and key turning points in the code. Also, the script can be split up where required so that minimum information can be loaded and least changes required to prevent coing errors. In our cse, we could use both PyPoll and Pypoll_Challenege accoridingly as per the information required in the future with minimum hard cooding and plenty of Pseudo codes. 
