@@ -44,5 +44,6 @@ The two ways in which the file script can be modified to suite other Elections a
 * When the Pypoll_Challenge file was created to accomodate for Election Commision's additional request, two variables were created i.e. NAME_COL and COUNTY_COL to prevent hardcoding the numbers, which can espcially help incase the Names and County are under different coloumn numbers. So, we can always avoid hardcoding and assign variables at the beginning of the code so that easy changes can be made if the script has to be used for other election polls. 
 * Pseudocoding is another great way how we can identify why specific codes are added in the script. All along, both the Pypoll and Pypoll Challenge has been Pseudo coded so that in case of any future assignments, relevat changes can be made by referring to the Pseudo codes. In our case, it helps to exactly find out where the external files have been linked to the PyPoll Challenge file and make the necessary changes in case a different file needs to be attached. 
 
+![Image](https://github.com/Manishthapa2022/Election_Analysis/blob/main/Resources/Pseudocoding_helps.png)
     
 
